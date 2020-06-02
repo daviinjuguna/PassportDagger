@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196f1</color>
+    <color name="colorPrimaryDark">#dddddd</color>
+    <color name="colorAccent">#2196f1</color>
+
+    <color name="gradient_start_color">#4c84ff</color>
+    <color name="gradient_end_color">#18a3fe</color>
+
+    <color name="white">#fff</color>
+
+
+    <!-- colors for tab and screent text -->
+
+    <color name="tab_indicator_gray">#c0c0c0</color>
+    <color name="intro_title_color">#000000</color>
+    <color name="intro_description_color">#656565</color>
+
+    <color name="colorTextError">#ff3737</color>
+    <color name="review_green">#ff669900</color>
+
+    <color name="text_light">#66000000</color>
+
+    <color name="primary_500">#FF8BC34A</color>
+    <color name="black_trans80">#33000000</color>
+    <color name="blue_trans">#3603A9F4</color>
+    <color name="approved_timesheet">#FF8BC34A</color>
+    <color name="success">#47D476</color>
+    <color name="info">#5BC0DE</color>
+    <color name="warning">#ff9800</color>
+    <color name="row_activated">#e0e0e0</color>
+    <color name="subject">#111111</color>
+    <color name="message">#7a7a7a</color>
+    <color name="bg_circle_default">#666666</color>
+    <color name="timestamp">#4285f4</color>
+    <color name="icon_tint_normal">#7a7a7a</color>
+    <color name="background">#F8F7F7</color>
+
+    <color name="light_orange">#f79f1f</color>
+    <color name="blue_300">#4FC3F7</color>
+
+
+</resources>
